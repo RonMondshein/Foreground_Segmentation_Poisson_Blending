@@ -46,13 +46,13 @@ This repository contains the implementation of both GrabCut and Poisson Blending
 #Before
 
 flower
-- ![Example Image 1](report_examples/flower_before.png)
+- ![Example Image 1](data/imgs/flower.png)
 sheep
-- ![Example Image 2](report_examples/sheep_before.png)
+- ![Example Image 2](data/imgs/sheep.png)
 memorial
-- ![Example Image 3](report_examples/memorial_before.png)
+- ![Example Image 3](data/imgs/memorial.png)
 teddy
-- ![Example Image 4](report_examples/teddy_before.png)
+- ![Example Image 4](data/imgs/teddy.png)
   
 #After
 
@@ -72,15 +72,15 @@ A comprehensive report on the methodology and results can be found [here](report
 ## Repository Structure
 
 ```plaintext
-imgs/
+data/imgs/
   ├── ... (input images)
-seg_GT/
+data/seg_GT/
   ├── ... (ground truth binary images)
-bg/
+data/bg/
   ├── ... (background images)
-bboxes/
+data/bboxes/
   ├── ... (bounding boxes as txt files)
-report_exmp/
+report_examples/
  ├── ... (example images and a detailed report)
 grabcut.py
 poisson_blend.py
