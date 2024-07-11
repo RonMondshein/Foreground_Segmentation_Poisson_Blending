@@ -28,6 +28,9 @@ This repository contains the implementation of both GrabCut and Poisson Blending
 6. **Evaluation Metric**:
    - Evaluate segmentation accuracy and Jaccard similarity against ground truth.
 
+### Example Images
+ ![GrabCut Image 1](report_examples/before_after.png) 
+
 ### Poisson Blending
 
 1. **Laplacian Operator Calculation**:
@@ -39,10 +42,7 @@ This repository contains the implementation of both GrabCut and Poisson Blending
 3. **Blend and Save Image**:
    - Blend the foreground object with the new background and save the result.
 
-## Results
-
 ### Example Images
- ![GrabCut Image 1](report_examples/before_after) 
  ![Poisson Blending  Image 1](report_examples/Poisson_Blending.png) 
 
 
