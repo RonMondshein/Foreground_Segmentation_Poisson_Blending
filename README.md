@@ -44,7 +44,7 @@ This repository contains the implementation of both GrabCut and Poisson Blending
 ### Example Images
 | Before | After |
 |--------|-------|
-| ![Before Image 1](data/imgs/flower.png) | ![After Image 1](report_examples/flower.png) |
+| ![Before Image 1](/data/imgs/flower.png) | ![After Image 1](report_examples/flower.png) |
 | ![Before Image 2](data/imgs/memorial.png) | ![After Image 2](report_examples/memorial.png) |
 | ![Before Image 3](data/imgs/sheep.png) | ![After Image 3](report_examples/sheep.png) |
 | ![Before Image 4](data/imgs/teddy.png) | ![After Image 4](report_examples/teddy.png) |
