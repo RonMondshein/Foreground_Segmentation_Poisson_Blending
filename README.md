@@ -42,7 +42,9 @@ This repository contains the implementation of both GrabCut and Poisson Blending
 ## Results
 
 ### Example Images
+
 #Before
+
 flower
 - ![Example Image 1](report_examples/flower_before.png)
 sheep
@@ -51,7 +53,9 @@ memorial
 - ![Example Image 3](report_examples/memorial_before.png)
 teddy
 - ![Example Image 4](report_examples/teddy_before.png)
+  
 #After
+
 flower
 - ![Example Image 1](report_examples/flower_after.png)
 sheep
