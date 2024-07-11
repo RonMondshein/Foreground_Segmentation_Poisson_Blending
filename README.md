@@ -53,7 +53,7 @@ This repository contains the implementation of both GrabCut and Poisson Blending
 
 ### Detailed Report
 
-A comprehensive report on the methodology and results can be found [here](report_examples/report.pdf).
+A comprehensive report on the methodology and results can be found [here](report_examples/Report.pdf).
 
 ## Repository Structure
 
